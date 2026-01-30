@@ -56,6 +56,11 @@ Before running the Lemon Quality Classifier, ensure the following requirements a
     ```bash
     python -m streamlit app.py
     ```
+## 🧠 Model Overview
+
+The model uses a **classical machine learning approach combined with texture-based computer vision techniques** for lemon quality classification. Instead of deep learning, it relies on **Haralick texture features** extracted from grayscale images using the **Mahotas** library.
+
+Multiple classifiers were evaluated, and **Quadratic Discriminant Analysis (QDA)** was selected as the final model due to its superior class separation and generalization performance. This approach offers **high accuracy, low computational cost, and strong interpretability**, making it well-suited for automated visual inspection in agriculture.
 
 ## 📁 Project Structure
 
@@ -89,6 +94,7 @@ If you have suggestions, bug fixes, or feature improvements, feel free to contri
 Made with IBM® by [alanfrancis765](https://github.com/alanfrancis765)
 
 </div>
+
 
 
 

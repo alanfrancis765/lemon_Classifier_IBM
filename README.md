@@ -1,11 +1,15 @@
 ![Lemon Classifier](static/banner.jpeg)
 <div align="center">
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Mahotas](https://img.shields.io/badge/Mahotas-2E7D32?style=for-the-badge&logo=python&logoColor=white)
+![Haralick](https://img.shields.io/badge/Haralick_Features-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-4A7382?style=for-the-badge&logo=python&logoColor=white)
+</div>
 
-[![GitHub stars](https://img.shields.io/github/stars/alanfrancis765/lemon_Classifier_IBM?style=for-the-badge)](https://github.com/alanfrancis765/lemon_Classifier_IBM/stargazers)
-
-[![GitHub forks](https://img.shields.io/github/forks/alanfrancis765/lemon_Classifier_IBM?style=for-the-badge)](https://github.com/alanfrancis765/lemon_Classifier_IBM/network)
-
-[![GitHub issues](https://img.shields.io/github/issues/alanfrancis765/lemon_Classifier_IBM?style=for-the-badge)](https://github.com/alanfrancis765/lemon_Classifier_IBM/issues)
 
 [![GitHub license](https://img.shields.io/github/license/alanfrancis765/lemon_Classifier_IBM?style=for-the-badge)](LICENSE)
 
@@ -208,5 +212,6 @@ Made with ❤️ by [alanfrancis765](https://github.com/alanfrancis765)
 
 </div>
 ```
+
 
 

@@ -68,7 +68,7 @@ Multiple classifiers were evaluated, and **Quadratic Discriminant Analysis (QDA)
 lemon_Classifier_IBM/
 ├── Model/              
 ├── static/             
-│   └── imges      
+│   └── images      
 ├── app.py                
 ├── requirements.txt    
 ├── LICENSE             
@@ -83,7 +83,7 @@ lemon_Classifier_IBM/
 
 ## 📝 Author and details:
 
--Hi this is Alan Francis I am a AIML student at Marian College of Engineering. This project is licensed under the [MIT License]. If you have any questions or suggestions, feel free to contact me at [alanfrancis347@gmail.com](mailto:alanfrancis347@gmail.com). Thank you for checking out the NASA Exoplanet Detection System! I hope this tool is helpful for your exoplanet research and exploration.
+-Hi this is Alan Francis I am an AIML student at Marian College of Engineering. This project is licensed under the [MIT License]. If you have any questions or suggestions, feel free to contact me at [alanfrancis347@gmail.com](mailto:alanfrancis347@gmail.com). Thank you for checking out the NASA Exoplanet Detection System! I hope this tool is helpful for your exoplanet research and exploration.
 We welcome contributions to improve the **Lemon Quality Classifier**!  
 If you have suggestions, bug fixes, or feature improvements, feel free to contribute.
 
@@ -94,6 +94,7 @@ If you have suggestions, bug fixes, or feature improvements, feel free to contri
 Made with IBM® by [alanfrancis765](https://github.com/alanfrancis765)
 
 </div>
+
 
 
 

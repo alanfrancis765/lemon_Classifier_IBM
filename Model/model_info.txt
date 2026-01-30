@@ -1,0 +1,8 @@
+Model: Quadratic Discriminant Analysis (QDA)
+Features: Haralick Texture (52)
+Preprocessing: RGB → Grayscale → Haralick
+Classes:
+0 - Excellent
+1 - Good
+2 - Processing
+3 - Rejected

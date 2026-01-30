@@ -69,38 +69,33 @@ lemon_Classifier_IBM/
 ├── LICENSE             
 └── README.md            
 ```
-**link to the website:**
-[click here](https://lemonclassifieribm-ctrxazhlfcecxhvzxcrrgb.streamlit.app/)
 
 ## Screenshots
+[click here](https://lemonclassifieribm-ctrxazhlfcecxhvzxcrrgb.streamlit.app/)
+
 ![before](static/image001.png)
 ![after](static/image002.png)
 
-## 🤝 Contributing
+## 📝 Author and details:
+
+-Hi this is Alan Francis I am a AIML student at Marian College of Engineering. This project is licensed under the [MIT License]. If you have any questions or suggestions, feel free to contact me at [alanfrancis347@gmail.com](mailto:alanfrancis347@gmail.com). Thank you for checking out the NASA Exoplanet Detection System! I hope this tool is helpful for your exoplanet research and exploration.
+
+## Contributing
 
 We welcome contributions to improve the Lemon Classifier! If you have suggestions or want to contribute, please feel free to fork the repository and submit a pull request.
  branch of this repository.
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
-
--   Built as part of an IBM project/course.
-
-## 📞 Support & Contact
-
--  Issues: [GitHub Issues](https://github.com/alanfrancis765/lemon_Classifier_IBM/issues)
----
 <div align="center">
 
-**⭐ Star this repo if you find it helpful!**
-
-Made with ❤️ by [alanfrancis765](https://github.com/alanfrancis765)
+Made by [alanfrancis765](https://github.com/alanfrancis765)
 
 </div>
 ```
+
 
 
 

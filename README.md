@@ -1,5 +1,4 @@
-# 🍋 Lemon Classifier
-
+![Lemon Classifier](static/banner.jpeg)
 <div align="center">
 
 [![GitHub stars](https://img.shields.io/github/stars/alanfrancis765/lemon_Classifier_IBM?style=for-the-badge)](https://github.com/alanfrancis765/lemon_Classifier_IBM/stargazers)
@@ -209,4 +208,5 @@ Made with ❤️ by [alanfrancis765](https://github.com/alanfrancis765)
 
 </div>
 ```
+
 

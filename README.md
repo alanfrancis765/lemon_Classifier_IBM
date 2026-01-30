@@ -70,8 +70,8 @@ lemon_Classifier_IBM/
 └── README.md            
 ```
 
-## Screenshots
-[click here](https://lemonclassifieribm-ctrxazhlfcecxhvzxcrrgb.streamlit.app/)
+## 📸 Screenshots
+[🍋click here](https://lemonclassifieribm-ctrxazhlfcecxhvzxcrrgb.streamlit.app/)
 
 ![before](static/image001.png)
 ![after](static/image002.png)
@@ -79,9 +79,6 @@ lemon_Classifier_IBM/
 ## 📝 Author and details:
 
 -Hi this is Alan Francis I am a AIML student at Marian College of Engineering. This project is licensed under the [MIT License]. If you have any questions or suggestions, feel free to contact me at [alanfrancis347@gmail.com](mailto:alanfrancis347@gmail.com). Thank you for checking out the NASA Exoplanet Detection System! I hope this tool is helpful for your exoplanet research and exploration.
-
-## 🤝 Contributing
-
 We welcome contributions to improve the **Lemon Quality Classifier**!  
 If you have suggestions, bug fixes, or feature improvements, feel free to contribute.
 
@@ -89,10 +86,10 @@ If you have suggestions, bug fixes, or feature improvements, feel free to contri
 
 <div align="center">
 
-Made with ![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
- by [alanfrancis765](https://github.com/alanfrancis765)
+Made with IBM® by [alanfrancis765](https://github.com/alanfrancis765)
 
 </div>
+
 
 
 

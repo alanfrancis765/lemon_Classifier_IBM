@@ -10,56 +10,23 @@
   <img src="https://img.shields.io/badge/Pillow-4A7382?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-**An intelligent web application for classifying lemons using a deep learning model.**
-
-<!-- TODO: Add live demo link if available -->
-<!-- [Live Demo](https://demo-link.com) -->
-
-</div>
-
-## 📖 Overview
+## 🍋 Lemon Quality Classifier 
 
 The Lemon Classifier is a lightweight web application designed to automatically classify images of lemons. Utilizing a pre-trained deep learning model, it provides a user-friendly interface for uploading images and receiving instant classification results. This project serves as a practical example of deploying a machine learning model for image recognition within a Flask-based web environment, ideal for quality control, educational purposes, or simply demonstrating ML inference.
 
 ## ✨ Features
 
--   🎯 **Image Classification**: Accurately classifies uploaded lemon images based on pre-defined categories (e.g., fresh/rotten).
--   🌐 **Web-based Interface**: Provides a simple and intuitive web front-end for easy image submission.
--   🧠 **Deep Learning Model**: Leverages a Keras/TensorFlow model for robust and efficient image analysis.
--   ⚡ **Real-time Predictions**: Offers quick inference on uploaded images, returning results promptly.
--   ⚙️ **API Endpoint**: Exposes a dedicated `/predict` API for programmatic image classification.
+- **Machine Learning–Based Predictions**  
+  Implements a supervised ML pipeline with **Haralick texture features** and a **Scikit-learn      classifier**.
+- **Computer Vision Feature Extraction**  
+  Extracts texture and intensity-based features using **Mahotas** before classification.
+- **Real-Time Inference**  
+  Provides instant predictions immediately after image upload.
+- **Simple & Interactive Web Interface**  
+  Clean, minimal UI designed for demonstrations and easy use.
+- **Modular & Reusable ML Pipeline**  
+  Enables easy retraining, feature tuning, or classifier replacement.
 
-## 🖥️ Screenshots
-
-<!-- TODO: Add actual screenshots of the web interface (e.g., upload page, prediction results) -->
-<!-- ![Upload Interface](path-to-screenshot-upload.png) -->
-<!-- ![Prediction Results](path-to-screenshot-results.png) -->
-
-## 🛠️ Tech Stack
-
-**Backend & Machine Learning:**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-
-[![Pillow](https://img.shields.io/badge/Pillow-4A7382?style=for-the-badge&logo=python&logoColor=white)](https://python-pillow.org/)
-
-**Frontend:**
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-## 🚀 Quick Start
 
 ### Prerequisites
 -   Python 3.8+
@@ -209,6 +176,7 @@ Made with ❤️ by [alanfrancis765](https://github.com/alanfrancis765)
 
 </div>
 ```
+
 
 
 

@@ -10,9 +10,6 @@
   <img src="https://img.shields.io/badge/Pillow-4A7382?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-
-[![GitHub license](https://img.shields.io/github/license/alanfrancis765/lemon_Classifier_IBM?style=for-the-badge)](LICENSE)
-
 **An intelligent web application for classifying lemons using a deep learning model.**
 
 <!-- TODO: Add live demo link if available -->
@@ -212,6 +209,7 @@ Made with ❤️ by [alanfrancis765](https://github.com/alanfrancis765)
 
 </div>
 ```
+
 
 
 
